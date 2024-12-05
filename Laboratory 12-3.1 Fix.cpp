@@ -67,5 +67,5 @@ bool readFromFile(string filename)
     cout << "Words: " << wordCount << endl;
     cout << "Characters: " << characters << endl;
     return true;
-}
+} 
 
